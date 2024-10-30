@@ -15,3 +15,4 @@ This is a **Simon Game** built using **HTML**, **CSS**, and **JavaScript**. The 
 2. Follow the sequence of colors that the game displays.
 
 Link:
+https://moaz2001syr.github.io/Simon-Game/
